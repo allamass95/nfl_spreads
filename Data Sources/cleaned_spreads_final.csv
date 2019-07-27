@@ -1,30 +1,30 @@
 ,Rank,FAVORITE,SPREAD,UNDERDOG,TOTAL,AWAY MONEY LINE,HOME MONEY LINE,H/A
 0,1,Atlanta Falcons,-1,Philadelphia Eagles,44.5,-105,-105,A
 1,2,Tennessee Titans,-1,Miami Dolphins,43.5,-102,-108,A
-2,3,Minnesota Vikings,-6,San Francisco 49ers,46.5,240,-260,H
+2,5,Minnesota Vikings,-6,San Francisco 49ers,46.5,240,-260,H
 3,4,New England Patriots,-6,Houston Texans,49,225,-245,H
-4,5,New Orleans Saints,-10,Tampa Bay Buccaneers,50,400,-450,H
+4,7,New Orleans Saints,-10,Tampa Bay Buccaneers,50,400,-450,H
 5,6,Jacksonville Jaguars,-2.5,New York Giants,42.5,-133,123,A
-6,7,Baltimore Ravens,-7.5,Buffalo Bills,38.5,310,-340,H
-7,8,Pittsburgh Steelers,-3.5,Cleveland Browns,41,-170,160,A
-8,9,Cincinnati Bengals,-1,Indianapolis Colts,47.5,-112,102,A
+6,9,Baltimore Ravens,-7.5,Buffalo Bills,38.5,310,-340,H
+7,3,Pittsburgh Steelers,-3.5,Cleveland Browns,41,-170,160,A
+8,8,Cincinnati Bengals,-1,Indianapolis Colts,47.5,-112,102,A
 9,10,Los Angeles Chargers,-3.5,Kansas City Chiefs,48,170,-185,H
-10,11,Washington Redskins,-1.5,Arizona Cardinals,43.5,111,-121,A
-11,12,Denver Broncos,-3,Seattle Seahawks,42.5,160,-170,H
-12,13,Carolina Panthers,-2.5,Dallas Cowboys,42,135,-145,H
+10,12,Washington Redskins,-1.5,Arizona Cardinals,43.5,111,-121,A
+11,13,Denver Broncos,-3,Seattle Seahawks,42.5,160,-170,H
+12,11,Carolina Panthers,-2.5,Dallas Cowboys,42,135,-145,H
 13,14,Green Bay Packers,-6.5,Chicago Bears,45,255,-280,H
 14,15,Detroit Lions,-7,New York Jets,44,285,-315,H
 15,16,Los Angeles Rams,-6,Oakland Raiders,47.5,-250,230,A
 16,17,Baltimore Ravens,-1,Cincinnati Bengals,43,-104,-106,A
-17,18,Atlanta Falcons,-5.5,Carolina Panthers,43.5,209,-234,H
-18,19,Los Angeles Chargers,-7.5,Buffalo Bills,41.5,-307,270,A
-19,20,Minnesota Vikings,-2,Green Bay Packers,45,-120,109,A
-20,21,New Orleans Saints,-9.5,Cleveland Browns,51,376,-439,H
-21,22,New York Jets,-3,Miami Dolphins,43,145,-161,H
-22,23,Pittsburgh Steelers,-4.5,Kansas City Chiefs,52,181,-202,H
-23,24,Philadelphia Eagles,-3,Tampa Bay Buccaneers,46.5,-147,133,A
-24,25,Houston Texans,-3.5,Tennessee Titans,41,-176,159,A
-25,26,Washington Redskins,-6,Indianapolis Colts,48,213,-239,H
+17,20,Atlanta Falcons,-5.5,Carolina Panthers,43.5,209,-234,H
+18,24,Los Angeles Chargers,-7.5,Buffalo Bills,41.5,-307,270,A
+19,18,Minnesota Vikings,-2,Green Bay Packers,45,-120,109,A
+20,22,New Orleans Saints,-9.5,Cleveland Browns,51,376,-439,H
+21,19,New York Jets,-3,Miami Dolphins,43,145,-161,H
+22,26,Pittsburgh Steelers,-4.5,Kansas City Chiefs,52,181,-202,H
+23,23,Philadelphia Eagles,-3,Tampa Bay Buccaneers,46.5,-147,133,A
+24,21,Houston Texans,-3.5,Tennessee Titans,41,-176,159,A
+25,25,Washington Redskins,-6,Indianapolis Colts,48,213,-239,H
 26,27,San Francisco 49ers,-6,Detroit Lions,48.5,210,-236,H
 27,28,Los Angeles Rams,-13.5,Arizona Cardinals,43.5,560,-687,H
 28,29,Denver Broncos,-5.5,Oakland Raiders,44,209,-235,H
@@ -32,61 +32,61 @@
 30,31,Dallas Cowboys,-3,New York Giants,42,138,-152,H
 31,32,Chicago Bears,-5,Seattle Seahawks,42.5,209,-234,H
 32,33,Cleveland Browns,-3,New York Jets,41,163,-173,H
-33,34,New Orleans Saints,-1.5,Atlanta Falcons,54,107,-117,A
-34,35,Baltimore Ravens,-5.5,Denver Broncos,46.5,200,-220,H
-35,36,Carolina Panthers,-3,Cincinnati Bengals,44,133,-143,H
-36,37,Houston Texans,-6.5,New York Giants,44.5,235,-255,H
-37,38,Jacksonville Jaguars,-10,Tennessee Titans,39.5,390,-440,H
-38,39,Kansas City Chiefs,-5.5,San Francisco 49ers,53.5,225,-245,H
-39,40,Miami Dolphins,-2.5,Oakland Raiders,46,128,-138,H
-40,41,Minnesota Vikings,-16.5,Buffalo Bills,41,950,-1150,H
-41,42,Philadelphia Eagles,-6,Indianapolis Colts,45,248,-270,H
-42,43,Green Bay Packers,-2,Washington Redskins,46.5,-123,113,A
+33,41,New Orleans Saints,-1.5,Atlanta Falcons,54,107,-117,A
+34,40,Baltimore Ravens,-5.5,Denver Broncos,46.5,200,-220,H
+35,37,Carolina Panthers,-3,Cincinnati Bengals,44,133,-143,H
+36,39,Houston Texans,-6.5,New York Giants,44.5,235,-255,H
+37,42,Jacksonville Jaguars,-10,Tennessee Titans,39.5,390,-440,H
+38,34,Kansas City Chiefs,-5.5,San Francisco 49ers,53.5,225,-245,H
+39,38,Miami Dolphins,-2.5,Oakland Raiders,46,128,-138,H
+40,43,Minnesota Vikings,-16.5,Buffalo Bills,41,950,-1150,H
+41,35,Philadelphia Eagles,-6,Indianapolis Colts,45,248,-270,H
+42,36,Green Bay Packers,-2,Washington Redskins,46.5,-123,113,A
 43,44,Los Angeles Rams,-7,Los Angeles Chargers,49,270,-300,H
-44,45,Chicago Bears,-5.5,Arizona Cardinals,38.5,-220,200,A
-45,46,Dallas Cowboys,-1.5,Seattle Seahawks,40,108,-118,A
+44,46,Chicago Bears,-5.5,Arizona Cardinals,38.5,-220,200,A
+45,45,Dallas Cowboys,-1.5,Seattle Seahawks,40,108,-118,A
 46,47,New England Patriots,-6.5,Detroit Lions,55,-300,270,H
 47,48,Pittsburgh Steelers,-1,Tampa Bay Buccaneers,55,100,-110,A
 48,49,Los Angeles Rams,-7,Minnesota Vikings,49,260,-290,H
-49,50,New England Patriots,-6.5,Miami Dolphins,50.5,255,-280,H
-50,51,Philadelphia Eagles,-2.5,Tennessee Titans,41.5,-135,125,A
-51,52,Atlanta Falcons,-3.5,Cincinnati Bengals,52.5,165,-175,H
-52,53,Chicago Bears,-2.5,Tampa Bay Buccaneers,45.5,125,-135,H
-53,54,Dallas Cowboys,-2.5,Detroit Lions,44,120,-130,H
-54,55,Green Bay Packers,-9.5,Buffalo Bills,44,315,-345,H
-55,56,Houston Texans,-1,Indianapolis Colts,48.5,-114,104,A
-56,57,Jacksonville Jaguars,-7,New York Jets,40.5,295,-325,H
-57,58,Seattle Seahawks,-3.5,Arizona Cardinals,40,-185,170,A
-58,59,Oakland Raiders,-2.5,Cleveland Browns,44.5,123,-133,H
-59,60,New Orleans Saints,-3,New York Giants,52,-162,152,A
-60,61,Los Angeles Chargers,-9.5,San Francisco 49ers,46.5,370,-415,H
+49,55,New England Patriots,-6.5,Miami Dolphins,50.5,255,-280,H
+50,54,Philadelphia Eagles,-2.5,Tennessee Titans,41.5,-135,125,A
+51,50,Atlanta Falcons,-3.5,Cincinnati Bengals,52.5,165,-175,H
+52,56,Chicago Bears,-2.5,Tampa Bay Buccaneers,45.5,125,-135,H
+53,57,Dallas Cowboys,-2.5,Detroit Lions,44,120,-130,H
+54,53,Green Bay Packers,-9.5,Buffalo Bills,44,315,-345,H
+55,51,Houston Texans,-1,Indianapolis Colts,48.5,-114,104,A
+56,52,Jacksonville Jaguars,-7,New York Jets,40.5,295,-325,H
+57,59,Seattle Seahawks,-3.5,Arizona Cardinals,40,-185,170,A
+58,58,Oakland Raiders,-2.5,Cleveland Browns,44.5,123,-133,H
+59,61,New Orleans Saints,-3,New York Giants,52,-162,152,A
+60,60,Los Angeles Chargers,-9.5,San Francisco 49ers,46.5,370,-415,H
 61,62,Pittsburgh Steelers,-3,Baltimore Ravens,51,145,-155,H
 62,63,Kansas City Chiefs,-3.5,Denver Broncos,53,-180,168,A
 63,64,New England Patriots,-11,Indianapolis Colts,49.5,500,-600,H
-64,65,Kansas City Chiefs,-3,Jacksonville Jaguars,48,145,-155,H
-65,66,Tennessee Titans,-6.5,Buffalo Bills,38,-270,248,A
-66,67,Carolina Panthers,-6.5,New York Giants,43.5,255,-280,H
-67,68,Cincinnati Bengals,-6.5,Miami Dolphins,48,240,-260,H
+64,66,Kansas City Chiefs,-3,Jacksonville Jaguars,48,145,-155,H
+65,71,Tennessee Titans,-6.5,Buffalo Bills,38,-270,248,A
+66,65,Carolina Panthers,-6.5,New York Giants,43.5,255,-280,H
+67,67,Cincinnati Bengals,-6.5,Miami Dolphins,48,240,-260,H
 68,69,Baltimore Ravens,-3,Cleveland Browns,44.5,-162,152,A
-69,70,Green Bay Packers,-1,Detroit Lions,50,102,-112,A
-70,71,Denver Broncos,-1,New York Jets,42,-103,-107,A
-71,72,Pittsburgh Steelers,-3.5,Atlanta Falcons,57,165,-175,H
+69,72,Green Bay Packers,-1,Detroit Lions,50,102,-112,A
+70,70,Denver Broncos,-1,New York Jets,42,-103,-107,A
+71,68,Pittsburgh Steelers,-3.5,Atlanta Falcons,57,165,-175,H
 72,73,Los Angeles Chargers,-4.5,Oakland Raiders,51.5,200,-220,H
-73,74,Los Angeles Rams,-7.5,Seattle Seahawks,50.5,-325,295,A
-74,75,San Francisco 49ers,-3,Arizona Cardinals,40.5,146,-156,H
+73,75,Los Angeles Rams,-7.5,Seattle Seahawks,50.5,-325,295,A
+74,74,San Francisco 49ers,-3,Arizona Cardinals,40.5,146,-156,H
 75,76,Philadelphia Eagles,-3,Minnesota Vikings,48.5,165,-175,H
 76,77,Houston Texans,-3,Dallas Cowboys,45.5,155,-165,H
 77,78,New Orleans Saints,-6,Washington Redskins,51.5,235,-255,H
 78,79,Philadelphia Eagles,-1.5,New York Giants,45.5,-122,112,A
-79,80,New York Jets,-2.5,Indianapolis Colts,48,125,-135,H
-80,81,Seattle Seahawks,-3,Oakland Raiders,47.5,-145,135,A
-81,82,Carolina Panthers,-1,Washington Redskins,44.5,-112,102,A
-82,83,Atlanta Falcons,-3,Tampa Bay Buccaneers,57.5,143,-153,H
-83,84,Cincinnati Bengals,-2,Pittsburgh Steelers,49.5,113,-123,H
-84,85,Los Angeles Chargers,-1,Cleveland Browns,47,-105,-105,A
-85,86,Houston Texans,-10,Buffalo Bills,40.5,405,-455,H
-86,87,Chicago Bears,-7,Miami Dolphins,40.5,-315,285,A
-87,88,Minnesota Vikings,-9.5,Arizona Cardinals,43.5,375,-420,H
+79,83,New York Jets,-2.5,Indianapolis Colts,48,125,-135,H
+80,84,Seattle Seahawks,-3,Oakland Raiders,47.5,-145,135,A
+81,80,Carolina Panthers,-1,Washington Redskins,44.5,-112,102,A
+82,86,Atlanta Falcons,-3,Tampa Bay Buccaneers,57.5,143,-153,H
+83,87,Cincinnati Bengals,-2,Pittsburgh Steelers,49.5,113,-123,H
+84,82,Los Angeles Chargers,-1,Cleveland Browns,47,-105,-105,A
+85,88,Houston Texans,-10,Buffalo Bills,40.5,405,-455,H
+86,81,Chicago Bears,-7,Miami Dolphins,40.5,-315,285,A
+87,85,Minnesota Vikings,-9.5,Arizona Cardinals,43.5,375,-420,H
 88,89,Los Angeles Rams,-7,Denver Broncos,50,-305,275,A
 89,90,Baltimore Ravens,-2.5,Tennessee Titans,43.5,-128,118,A
 90,91,Jacksonville Jaguars,-3,Dallas Cowboys,40,-165,155,A
@@ -95,68 +95,68 @@
 93,94,Denver Broncos,-1,Arizona Cardinals,42,-105,-105,A
 94,95,Los Angeles Chargers,-6.5,Tennessee Titans,46,248,-270,H
 95,96,Detroit Lions,-3,Miami Dolphins,47,-155,145,A
-96,97,Minnesota Vikings,-3,New York Jets,44.5,-165,155,A
-97,98,Philadelphia Eagles,-4.5,Carolina Panthers,45,200,-220,H
-98,99,New England Patriots,-1,Chicago Bears,49,-113,103,H
-99,100,Indianapolis Colts,-7,Buffalo Bills,43.5,260,-290,H
+96,102,Minnesota Vikings,-3,New York Jets,44.5,-165,155,A
+97,97,Philadelphia Eagles,-4.5,Carolina Panthers,45,200,-220,H
+98,98,New England Patriots,-1,Chicago Bears,49,-113,103,H
+99,99,Indianapolis Colts,-7,Buffalo Bills,43.5,260,-290,H
 100,101,Jacksonville Jaguars,-4,Houston Texans,43,170,-185,H
-101,102,Tampa Bay Buccaneers,-3.5,Cleveland Browns,52,170,-185,H
+101,100,Tampa Bay Buccaneers,-3.5,Cleveland Browns,52,170,-185,H
 102,103,Baltimore Ravens,-2.5,New Orleans Saints,49.5,124,-134,H
-103,104,Dallas Cowboys,-1,Washington Redskins,40.5,-120,110,A
-104,105,Los Angeles Rams,-9.5,San Francisco 49ers,51.5,-405,360,A
+103,105,Dallas Cowboys,-1,Washington Redskins,40.5,-120,110,A
+104,104,Los Angeles Rams,-9.5,San Francisco 49ers,51.5,-405,360,A
 105,106,Kansas City Chiefs,-6,Cincinnati Bengals,56.5,240,-260,H
 106,107,Atlanta Falcons,-4,New York Giants,52.5,185,-200,H
 107,108,Houston Texans,-7.5,Miami Dolphins,45,315,-345,H
 108,109,Philadelphia Eagles,-3.5,Jacksonville Jaguars,44.5,-190,175,A
-109,110,Kansas City Chiefs,-8.5,Denver Broncos,53.5,335,-375,H
+109,115,Kansas City Chiefs,-8.5,Denver Broncos,53.5,335,-375,H
 110,111,Baltimore Ravens,-2.5,Carolina Panthers,44.5,-137,127,A
 111,112,Chicago Bears,-9,New York Jets,42,320,-355,H
-112,113,Cincinnati Bengals,-3.5,Tampa Bay Buccaneers,54.5,170,-185,H
-113,114,Detroit Lions,-3,Seattle Seahawks,48,150,-160,H
-114,115,Washington Redskins,-1,New York Giants,44,-105,-105,A
+112,114,Cincinnati Bengals,-3.5,Tampa Bay Buccaneers,54.5,170,-185,H
+113,110,Detroit Lions,-3,Seattle Seahawks,48,150,-160,H
+114,113,Washington Redskins,-1,New York Giants,44,-105,-105,A
 115,116,Pittsburgh Steelers,-9,Cleveland Browns,47.5,348,-390,H
 116,117,Indianapolis Colts,-3,Oakland Raiders,51,-178,167,A
-117,118,San Francisco 49ers,-2.5,Arizona Cardinals,40,-140,130,A
-118,119,Los Angeles Rams,-7.5,Green Bay Packers,57,315,-345,H
+117,119,San Francisco 49ers,-2.5,Arizona Cardinals,40,-140,130,A
+118,118,Los Angeles Rams,-7.5,Green Bay Packers,57,315,-345,H
 119,120,New Orleans Saints,-2.5,Minnesota Vikings,54,-131,121,A
 120,121,New England Patriots,-14,Buffalo Bills,44,-950,750,H
 121,122,Oakland Raiders,-2,San Francisco 49ers,44,-125,115,A
-122,123,Atlanta Falcons,-1,Washington Redskins,46.5,103,-113,A
-123,124,Pittsburgh Steelers,-1,Baltimore Ravens,47,105,-115,A
-124,125,Chicago Bears,-10,Buffalo Bills,38,-450,400,A
-125,126,Carolina Panthers,-6.5,Tampa Bay Buccaneers,56,260,-290,H
-126,127,Kansas City Chiefs,-7.5,Cleveland Browns,51,-365,328,A
-127,128,Miami Dolphins,-3,New York Jets,43,138,-148,H
-128,129,Minnesota Vikings,-5.5,Detroit Lions,47,205,-225,H
-129,130,Houston Texans,-1,Denver Broncos,46.5,-102,-108,A
-130,131,Los Angeles Chargers,-1,Seattle Seahawks,48.5,-105,-105,A
+122,126,Atlanta Falcons,-1,Washington Redskins,46.5,103,-113,A
+123,125,Pittsburgh Steelers,-1,Baltimore Ravens,47,105,-115,A
+124,127,Chicago Bears,-10,Buffalo Bills,38,-450,400,A
+125,123,Carolina Panthers,-6.5,Tampa Bay Buccaneers,56,260,-290,H
+126,128,Kansas City Chiefs,-7.5,Cleveland Browns,51,-365,328,A
+127,129,Miami Dolphins,-3,New York Jets,43,138,-148,H
+128,124,Minnesota Vikings,-5.5,Detroit Lions,47,205,-225,H
+129,131,Houston Texans,-1,Denver Broncos,46.5,-102,-108,A
+130,130,Los Angeles Chargers,-1,Seattle Seahawks,48.5,-105,-105,A
 131,132,Los Angeles Rams,-1.5,New Orleans Saints,57,-122,112,A
 132,133,New England Patriots,-4.5,Green Bay Packers,56.5,190,-210,H
 133,134,Dallas Cowboys,-4,Tennessee Titans,40,190,-210,H
 134,135,Pittsburgh Steelers,-3.5,Carolina Panthers,51,170,-185,H
 135,136,Tampa Bay Buccaneers,-3.5,Washington Redskins,51,160,-170,H
-136,137,New England Patriots,-6.5,Tennessee Titans,46.5,-260,240,H
+136,143,New England Patriots,-6.5,Tennessee Titans,46.5,-260,240,H
 137,138,Chicago Bears,-7.5,Detroit Lions,45,290,-320,H
-138,139,New Orleans Saints,-6,Cincinnati Bengals,53,-260,240,A
-139,140,Atlanta Falcons,-5.5,Cleveland Browns,49,-240,220,A
+138,140,New Orleans Saints,-6,Cincinnati Bengals,53,-260,240,A
+139,139,Atlanta Falcons,-5.5,Cleveland Browns,49,-240,220,A
 140,141,Indianapolis Colts,-3,Jacksonville Jaguars,48,148,-158,H
-141,142,Kansas City Chiefs,-17,Arizona Cardinals,49.5,1150,-1450,H
-142,143,New York Jets,-7,Buffalo Bills,37.5,260,-290,H
+141,137,Kansas City Chiefs,-17,Arizona Cardinals,49.5,1150,-1450,H
+142,142,New York Jets,-7,Buffalo Bills,37.5,260,-290,H
 143,144,Los Angeles Chargers,-10,Oakland Raiders,50.5,-475,420,A
-144,145,Los Angeles Rams,-9.5,Seattle Seahawks,51,380,-430,H
-145,146,Green Bay Packers,-12.5,Miami Dolphins,48.5,540,-660,H
+144,146,Los Angeles Rams,-9.5,Seattle Seahawks,51,380,-430,H
+145,145,Green Bay Packers,-12.5,Miami Dolphins,48.5,540,-660,H
 146,147,Philadelphia Eagles,-7.5,Dallas Cowboys,45.5,315,-345,H
 147,148,San Francisco 49ers,-3,New York Giants,45,152,-162,H
 148,149,Seattle Seahawks,-3,Green Bay Packers,49,145,-155,H
-149,150,Houston Texans,-3,Washington Redskins,40.5,-157,147,A
-150,151,New York Giants,-3,Tampa Bay Buccaneers,54,153,-163,H
-151,152,Carolina Panthers,-4,Detroit Lions,48.5,-200,185,A
-152,153,Tennessee Titans,-1.5,Indianapolis Colts,50,110,-120,A
-153,154,Pittsburgh Steelers,-4,Jacksonville Jaguars,47,-195,180,A
-154,155,Atlanta Falcons,-3.5,Dallas Cowboys,49.5,170,-185,H
-155,156,Baltimore Ravens,-6.5,Cincinnati Bengals,43.5,240,-260,H
-156,157,Arizona Cardinals,-4.5,Oakland Raiders,41,185,-200,H
-157,158,Los Angeles Chargers,-7,Denver Broncos,47,280,-310,H
+149,153,Houston Texans,-3,Washington Redskins,40.5,-157,147,A
+150,155,New York Giants,-3,Tampa Bay Buccaneers,54,153,-163,H
+151,154,Carolina Panthers,-4,Detroit Lions,48.5,-200,185,A
+152,152,Tennessee Titans,-1.5,Indianapolis Colts,50,110,-120,A
+153,156,Pittsburgh Steelers,-4,Jacksonville Jaguars,47,-195,180,A
+154,151,Atlanta Falcons,-3.5,Dallas Cowboys,49.5,170,-185,H
+155,150,Baltimore Ravens,-6.5,Cincinnati Bengals,43.5,240,-260,H
+156,158,Arizona Cardinals,-4.5,Oakland Raiders,41,185,-200,H
+157,157,Los Angeles Chargers,-7,Denver Broncos,47,280,-310,H
 158,159,New Orleans Saints,-7,Philadelphia Eagles,56.5,270,-300,H
 159,160,Chicago Bears,-2.5,Minnesota Vikings,44,130,-140,H
 160,161,Los Angeles Rams,-3,Kansas City Chiefs,63.5,160,-170,H
@@ -164,96 +164,96 @@
 162,163,Dallas Cowboys,-7,Washington Redskins,40,290,-320,H
 163,164,New Orleans Saints,-12,Atlanta Falcons,61,500,-600,H
 164,165,New England Patriots,-12.5,New York Jets,47,-660,540,H
-165,166,Philadelphia Eagles,-5,New York Giants,49.5,190,-210,H
-166,167,Tampa Bay Buccaneers,-2,San Francisco 49ers,54.5,115,-125,H
-167,168,Baltimore Ravens,-12.5,Oakland Raiders,42,568,-700,H
-168,169,Jacksonville Jaguars,-3,Buffalo Bills,36.5,-157,147,A
-169,170,Carolina Panthers,-3,Seattle Seahawks,46.5,150,-160,H
-170,171,Cleveland Browns,-1,Cincinnati Bengals,47,-112,102,A
+165,168,Philadelphia Eagles,-5,New York Giants,49.5,190,-210,H
+166,171,Tampa Bay Buccaneers,-2,San Francisco 49ers,54.5,115,-125,H
+167,170,Baltimore Ravens,-12.5,Oakland Raiders,42,568,-700,H
+168,167,Jacksonville Jaguars,-3,Buffalo Bills,36.5,-157,147,A
+169,169,Carolina Panthers,-3,Seattle Seahawks,46.5,150,-160,H
+170,166,Cleveland Browns,-1,Cincinnati Bengals,47,-112,102,A
 171,172,Los Angeles Chargers,-14,Arizona Cardinals,43,725,-925,H
-172,173,Indianapolis Colts,-8.5,Miami Dolphins,52.5,330,-370,H
-173,174,Pittsburgh Steelers,-3,Denver Broncos,47.5,-155,145,A
+172,174,Indianapolis Colts,-8.5,Miami Dolphins,52.5,330,-370,H
+173,173,Pittsburgh Steelers,-3,Denver Broncos,47.5,-155,145,A
 174,175,Minnesota Vikings,-3.5,Green Bay Packers,48.5,170,-185,H
 175,176,Houston Texans,-3.5,Tennessee Titans,42.5,170,-185,H
 176,177,New Orleans Saints,-7,Dallas Cowboys,51.5,-335,305,A
-177,178,Los Angeles Rams,-10,Detroit Lions,54,-450,400,A
+177,184,Los Angeles Rams,-10,Detroit Lions,54,-450,400,A
 178,179,Green Bay Packers,-13,Arizona Cardinals,41,610,-765,H
-179,180,Houston Texans,-5.5,Cleveland Browns,47.5,200,-220,H
-180,181,Indianapolis Colts,-4,Jacksonville Jaguars,45.5,-205,188,A
+179,183,Houston Texans,-5.5,Cleveland Browns,47.5,200,-220,H
+180,186,Indianapolis Colts,-4,Jacksonville Jaguars,45.5,-205,188,A
 181,182,Miami Dolphins,-3.5,Buffalo Bills,39.5,175,-190,H
-182,183,Atlanta Falcons,-2.5,Baltimore Ravens,46.5,125,-135,H
-183,184,Denver Broncos,-4,Cincinnati Bengals,44.5,-190,175,A
-184,185,Chicago Bears,-4,New York Giants,43.5,-190,175,A
-185,186,Carolina Panthers,-3.5,Tampa Bay Buccaneers,51.5,-178,167,A
-186,187,Tennessee Titans,-9.5,New York Jets,40,380,-430,H
-187,188,Kansas City Chiefs,-14,Oakland Raiders,53.5,-900,700,A
+182,180,Atlanta Falcons,-2.5,Baltimore Ravens,46.5,125,-135,H
+183,181,Denver Broncos,-4,Cincinnati Bengals,44.5,-190,175,A
+184,178,Chicago Bears,-4,New York Giants,43.5,-190,175,A
+185,185,Carolina Panthers,-3.5,Tampa Bay Buccaneers,51.5,-178,167,A
+186,188,Tennessee Titans,-9.5,New York Jets,40,380,-430,H
+187,187,Kansas City Chiefs,-14,Oakland Raiders,53.5,-900,700,A
 188,189,New England Patriots,-6,Minnesota Vikings,49,220,-240,H
 189,190,Seattle Seahawks,-9.5,San Francisco 49ers,45,390,-440,H
 190,191,Pittsburgh Steelers,-3,Los Angeles Chargers,53.5,160,-170,H
 191,192,Philadelphia Eagles,-6,Washington Redskins,45,220,-240,H
 192,193,Tennessee Titans,-5.5,Jacksonville Jaguars,37,215,-235,H
-193,194,New York Giants,-3,Washington Redskins,40,-158,148,A
-194,195,New Orleans Saints,-9,Tampa Bay Buccaneers,55,-410,365,A
-195,196,New England Patriots,-9.5,Miami Dolphins,49.5,-420,375,H
-196,197,Buffalo Bills,-4.5,New York Jets,37,188,-205,H
-197,198,Carolina Panthers,-1,Cleveland Browns,48,-105,-105,A
+193,198,New York Giants,-3,Washington Redskins,40,-158,148,A
+194,196,New Orleans Saints,-9,Tampa Bay Buccaneers,55,-410,365,A
+195,200,New England Patriots,-9.5,Miami Dolphins,49.5,-420,375,H
+196,201,Buffalo Bills,-4.5,New York Jets,37,188,-205,H
+197,195,Carolina Panthers,-1,Cleveland Browns,48,-105,-105,A
 198,199,Green Bay Packers,-4,Atlanta Falcons,50.5,170,-185,H
-199,200,Houston Texans,-4,Indianapolis Colts,49,180,-195,H
-200,201,Kansas City Chiefs,-6.5,Baltimore Ravens,48.5,245,-265,H
+199,194,Houston Texans,-4,Indianapolis Colts,49,180,-195,H
+200,197,Kansas City Chiefs,-6.5,Baltimore Ravens,48.5,245,-265,H
 201,202,Los Angeles Chargers,-16.5,Cincinnati Bengals,48.5,950,-1150,H
 202,203,Denver Broncos,-3,San Francisco 49ers,45.5,-152,142,A
 203,204,Detroit Lions,-2.5,Arizona Cardinals,39.5,-130,120,A
-204,205,Pittsburgh Steelers,-9.5,Oakland Raiders,51,-475,420,A
-205,206,Dallas Cowboys,-3,Philadelphia Eagles,45.5,163,-173,H
+204,206,Pittsburgh Steelers,-9.5,Oakland Raiders,51,-475,420,A
+205,205,Dallas Cowboys,-3,Philadelphia Eagles,45.5,163,-173,H
 206,207,Los Angeles Rams,-3,Chicago Bears,51,-147,137,A
 207,208,Seattle Seahawks,-3,Minnesota Vikings,45.5,146,-156,H
 208,209,Kansas City Chiefs,-4,Los Angeles Chargers,54.5,177,-192,H
 209,210,Houston Texans,-7,New York Jets,44.5,-300,270,A
 210,211,Denver Broncos,-2,Cleveland Browns,47,115,-125,H
-211,212,Indianapolis Colts,-3,Dallas Cowboys,47,157,-167,H
-212,213,Jacksonville Jaguars,-7,Washington Redskins,36.5,275,-305,H
-213,214,Chicago Bears,-6,Green Bay Packers,46.5,210,-230,H
-214,215,Cincinnati Bengals,-3,Oakland Raiders,45.5,143,-153,H
-215,216,Atlanta Falcons,-9,Arizona Cardinals,43.5,355,-400,H
-216,217,Baltimore Ravens,-8.5,Tampa Bay Buccaneers,44.5,320,-355,H
+211,220,Indianapolis Colts,-3,Dallas Cowboys,47,157,-167,H
+212,217,Jacksonville Jaguars,-7,Washington Redskins,36.5,275,-305,H
+213,213,Chicago Bears,-6,Green Bay Packers,46.5,210,-230,H
+214,216,Cincinnati Bengals,-3,Oakland Raiders,45.5,143,-153,H
+215,215,Atlanta Falcons,-9,Arizona Cardinals,43.5,355,-400,H
+216,214,Baltimore Ravens,-8.5,Tampa Bay Buccaneers,44.5,320,-355,H
 217,218,Buffalo Bills,-2.5,Detroit Lions,39.5,135,-145,H
-218,219,Minnesota Vikings,-8,Miami Dolphins,45,310,-340,H
-219,220,Tennessee Titans,-2.5,New York Giants,42,-130,120,A
+218,212,Minnesota Vikings,-8,Miami Dolphins,45,310,-340,H
+219,219,Tennessee Titans,-2.5,New York Giants,42,-130,120,A
 220,221,Seattle Seahawks,-4,San Francisco 49ers,44,-200,185,A
 221,222,New England Patriots,-2.5,Pittsburgh Steelers,55.5,-135,125,H
 222,223,Los Angeles Rams,-13.5,Philadelphia Eagles,52.5,640,-810,H
 223,224,New Orleans Saints,-6,Carolina Panthers,50.5,-235,215,A
 224,225,Tennessee Titans,-12,Washington Redskins,38,500,-600,H
 225,226,Los Angeles Chargers,-4,Baltimore Ravens,42.5,190,-210,H
-226,227,Miami Dolphins,-3,Jacksonville Jaguars,39.5,155,-165,H
-227,228,New England Patriots,-14,Buffalo Bills,45,635,-800,H
-228,229,Atlanta Falcons,-3,Carolina Panthers,46,-148,138,A
+226,232,Miami Dolphins,-3,Jacksonville Jaguars,39.5,155,-165,H
+227,235,New England Patriots,-14,Buffalo Bills,45,635,-800,H
+228,231,Atlanta Falcons,-3,Carolina Panthers,46,-148,138,A
 229,230,Cleveland Browns,-10,Cincinnati Bengals,44,355,-400,H
-230,231,Dallas Cowboys,-7,Tampa Bay Buccaneers,48,295,-325,H
-231,232,Minnesota Vikings,-6.5,Detroit Lions,42.5,-270,248,A
+230,228,Dallas Cowboys,-7,Tampa Bay Buccaneers,48,295,-325,H
+231,234,Minnesota Vikings,-6.5,Detroit Lions,42.5,-270,248,A
 232,233,Indianapolis Colts,-9.5,New York Giants,48,390,-440,H
-233,234,Green Bay Packers,-3,New York Jets,47,-155,145,A
-234,235,Philadelphia Eagles,-2,Houston Texans,46.5,112,-122,H
+233,227,Green Bay Packers,-3,New York Jets,47,-155,145,A
+234,229,Philadelphia Eagles,-2,Houston Texans,46.5,112,-122,H
 235,236,Los Angeles Rams,-14,Arizona Cardinals,44,-700,568,A
 236,237,Chicago Bears,-3.5,San Francisco 49ers,43.5,-185,170,A
 237,238,New Orleans Saints,-6.5,Pittsburgh Steelers,53.5,245,-265,H
 238,239,Kansas City Chiefs,-1,Seattle Seahawks,54.5,-112,102,A
 239,240,Denver Broncos,-1.5,Oakland Raiders,42.5,-123,113,A
 240,241,Green Bay Packers,-7.5,Detroit Lions,44.5,280,-310,H
-241,242,Houston Texans,-7,Jacksonville Jaguars,39.5,275,-305,H
-242,243,New England Patriots,-13.5,New York Jets,46.5,635,-800,H
-243,244,New Orleans Saints,-7.5,Carolina Panthers,41.5,295,-325,H
-244,245,New York Giants,-7.5,Dallas Cowboys,38.5,280,-310,H
-245,246,Buffalo Bills,-5.5,Miami Dolphins,39.5,220,-240,H
-246,247,Atlanta Falcons,-2.5,Tampa Bay Buccaneers,52,-140,130,A
-247,248,Los Angeles Chargers,-6.5,Denver Broncos,43.5,-290,260,A
-248,249,Baltimore Ravens,-7,Cleveland Browns,41,260,-290,H
-249,250,Philadelphia Eagles,-6,Washington Redskins,43,-240,220,A
+241,243,Houston Texans,-7,Jacksonville Jaguars,39.5,275,-305,H
+242,247,New England Patriots,-13.5,New York Jets,46.5,635,-800,H
+243,246,New Orleans Saints,-7.5,Carolina Panthers,41.5,295,-325,H
+244,244,New York Giants,-7.5,Dallas Cowboys,38.5,280,-310,H
+245,245,Buffalo Bills,-5.5,Miami Dolphins,39.5,220,-240,H
+246,242,Atlanta Falcons,-2.5,Tampa Bay Buccaneers,52,-140,130,A
+247,255,Los Angeles Chargers,-6.5,Denver Broncos,43.5,-290,260,A
+248,254,Baltimore Ravens,-7,Cleveland Browns,41,260,-290,H
+249,249,Philadelphia Eagles,-6,Washington Redskins,43,-240,220,A
 250,251,Pittsburgh Steelers,-13.5,Cincinnati Bengals,46,575,-710,H
-251,252,Seattle Seahawks,-15,Arizona Cardinals,40,675,-860,H
+251,250,Seattle Seahawks,-15,Arizona Cardinals,40,675,-860,H
 252,253,Kansas City Chiefs,-14,Oakland Raiders,53,700,-900,H
-253,254,Los Angeles Rams,-10.5,San Francisco 49ers,50,390,-440,H
-254,255,Minnesota Vikings,-5.5,Chicago Bears,39.5,215,-235,H
+253,252,Los Angeles Rams,-10.5,San Francisco 49ers,50,390,-440,H
+254,248,Minnesota Vikings,-5.5,Chicago Bears,39.5,215,-235,H
 255,256,Indianapolis Colts,-5.5,Tennessee Titans,42.5,-235,215,A
 256,257,Indianapolis Colts,-1.5,Houston Texans,49,110,-120,A
 257,258,Dallas Cowboys,-2.5,Seattle Seahawks,43.5,130,-140,H
